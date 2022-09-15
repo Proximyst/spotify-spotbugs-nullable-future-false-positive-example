@@ -2,6 +2,8 @@
 
 This project exists as a proof of a SpotBugs `NP_NULL_ON_SOME_PATH_FROM_RETURN_VALUE` false positive.
 
+See: <https://github.com/spotbugs/spotbugs/issues/2179>
+
 ## Compiling and checking
 
 You need a Java 17 JDK installed and on the PATH. Run `./mvnw clean verify`.
